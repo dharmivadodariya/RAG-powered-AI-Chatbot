@@ -35,14 +35,21 @@ A **Streamlit-based chatbot** that uses **Retrieval-Augmented Generation (RAG)**
 
     Create a .env file with the following variables:
 
-    AZURE_OPENAI_ENDPOINT=your_endpoint
-    AZURE_OPENAI_API_VERSION=2023-05-15
-    AZURE_OPENAI_API_KEY=your_key
-    AZURE_OPENAI_DEPLOYMENT_NAME=your_deployment
-    EMBEDDING_AZURE_OPENAI_ENDPOINT=your_embedding_endpoint
-    EMBEDDING_AZURE_OPENAI_API_VERSION=2023-05-15
-    EMBEDDING_AZURE_OPENAI_API_KEY=your_embedding_key
-    EMBEDDING_AZURE_OPENAI_DEPLOYMENT_NAME=your_embedding_deployment
+   AZURE_OPENAI_ENDPOINT=your_endpoint
+
+   AZURE_OPENAI_API_VERSION=2023-05-15
+
+   AZURE_OPENAI_API_KEY=your_key
+
+   AZURE_OPENAI_DEPLOYMENT_NAME=your_deployment
+
+   EMBEDDING_AZURE_OPENAI_ENDPOINT=your_embedding_endpoint
+
+   EMBEDDING_AZURE_OPENAI_API_VERSION=2023-05-15
+
+   EMBEDDING_AZURE_OPENAI_API_KEY=your_embedding_key
+
+   EMBEDDING_AZURE_OPENAI_DEPLOYMENT_NAME=your_embedding_deployment
 
 ## Run the App
 
