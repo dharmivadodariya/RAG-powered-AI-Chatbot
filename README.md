@@ -18,14 +18,6 @@ A **Streamlit-based chatbot** that uses **Retrieval-Augmented Generation (RAG)**
 ## Requirements
 
 - Python 3.8+
-- GitHub repository with the following structure:
-
-📁 Chatbot/
-│
-├── chatbot.py
-├── .env
-└── ipl2025.txt (optional)
-
 ---
 
 ## Installation
